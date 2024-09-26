@@ -5,7 +5,7 @@
 #include "Path.hpp"
 #include "exception.hpp"
 #include <iostream>
-
+#include <math.h>
 namespace hexer
 {
 
